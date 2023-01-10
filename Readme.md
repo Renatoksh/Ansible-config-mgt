@@ -1,2 +1,1 @@
-ansible-config-mgt
-Project-11
+ansible-config-mgt: Project-11
